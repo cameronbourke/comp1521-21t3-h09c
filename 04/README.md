@@ -1,21 +1,21 @@
 👋 Week 3
 =======================================
 
-[ ] 🎤 PSAs
+[x] 🎤 PSAs
 
 - MIPS is tedious!
 	- Debuggers are your friend!
 - Two brains are still better than one 🧠
 
-[ ] 📹 Hit Record
+[x] 📹 Hit Record
 
-[ ] 🙂 [Acknowledgement of Country](./ack.md)
+[x] 🙂 [Acknowledgement of Country](./ack.md)
 
-[ ] 🥼 [Lab Preview](https://cgi.cse.unsw.edu.au/~cs1521/21T3/lab/04/questions)
+[x] 🥼  [Lab Preview](https://cgi.cse.unsw.edu.au/~cs1521/21T3/lab/04/questions)
 
-[ ] 🗽 Poll
+[x] 🗽 How do you feel about MIPS?
 
-[ ] 🏫 [Tut Questions](q1/README.md)
+[x] 🏫 [Tut Questions](q1/README.md)
 
 [ ] 👌 Top Picks
 
