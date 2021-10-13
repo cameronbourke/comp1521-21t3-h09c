@@ -1,19 +1,21 @@
 👋 Week 3
 =======================================
 
-[Slides](https://www.canva.com/design/DAEslbnSFo8/7wHdsAMD2TPuuM2ltPIr5g/view?utm_content=DAEslbnSFo8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- [Slides](https://www.canva.com/design/DAEslbnSFo8/7wHdsAMD2TPuuM2ltPIr5g/view?utm_content=DAEslbnSFo8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 [ ] 🎤 PSAs
 
 - Assignment #1 is out!
 	- The deadline has been moved to week 8.
 - Help sessions haved started [this week](https://cgi.cse.unsw.edu.au/~cs1521/21T3/help-sessions/).
+- [MIPSY Walkthrough](https://drive.google.com/file/d/19DxO_4Xywufjjyb79lHzyiBfSjsT0-FB/view)
 
 [ ] 📹 Hit Record
 
 [ ] 🙂 [Acknowledgement of Country](./ack.md)
 
 [ ] 💻 [Assignment #1 Overview](https://cgi.cse.unsw.edu.au/~cs1521/21T3/assignments/ass1/index.html)
+
 - Start early.
 - Use `$s` registers for local variables.
 - Don't forget to commit (using `git`) after each subset is working correctly! 
@@ -29,3 +31,5 @@
 
 [ ] 👌 Top Picks
 
+- [Memory Issues - IIT Lab](http://www.cs.iit.edu/~virgil/cs470/Labs/Lab5.pdf)
+- [FLOPPOTRON](https://www.youtube.com/channel/UCximsD7EJ38jzCNgfP_YTmA)

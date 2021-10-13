@@ -22,6 +22,8 @@ int main(void) {
 }
 ```
 
-> What if we used `while` loop instead? Go to ./while.c.
+Which loop (`while` or `do while`) prints more digits?
+
+> Compare `while.c` and `do_while.c`
 
 [ ] Translate `./do_while.c` to `./do_while.s`

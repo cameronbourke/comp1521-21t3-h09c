@@ -13,4 +13,7 @@ Address       Data Definition
 0x10010014         .word 7
 ```
 
-> Let's do this together in `mipsy`!
+> Quickly have a go yourself. (⌛ 2mins)
+
+> Then, let's do it together in `mipsy`!
+

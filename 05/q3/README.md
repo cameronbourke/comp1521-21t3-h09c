@@ -33,4 +33,6 @@ first and let `mipsy` do the double checking!
 How can we use `.align` to put align a word
 not on a 4 byte boundary?
 
-> Jump into `./mem_bad.s`
+> Show hint in `./mem_bad.s`
+
+> Discuss in breakout rooms (⌛ 4mins)
