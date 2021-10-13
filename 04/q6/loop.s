@@ -13,7 +13,7 @@ loop:
 	li	$v0, 11
 	syscall
 
-	addi	$t0, $t0, 3	# i += 3;
+	#addi	$t0, $t0, 3	# i += 3;
 
 	j	loop		# goto loop;
 
