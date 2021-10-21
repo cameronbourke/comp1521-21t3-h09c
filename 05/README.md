@@ -17,7 +17,11 @@
 [ ] 💻 [Assignment #1 Overview](https://cgi.cse.unsw.edu.au/~cs1521/21T3/assignments/ass1/index.html)
 
 - Start early.
-- Use `$s` registers for local variables.
+- First get comfortable with reference `C` implementation.
+	- play around with `./minesweeper`!
+- Take a look at all the constants before getting started!
+- Implement what the `C` code does verbatim. Don't try and optimise!
+- Use `$s` registers for all local variables.
 - Don't forget to commit (using `git`) after each subset is working correctly! 
 	- also good idea to `give` after completing each subset.
 - Check that you are calculating the correct memory address.
