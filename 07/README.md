@@ -24,4 +24,4 @@
 
 [ ] 👌 Top Picks
 
-[What is a stack and how does it work? - Ben Eater](https://www.youtube.com/watch?v=xBjQVxVxOxc)
+- [What is a stack and how does it work? - Ben Eater](https://www.youtube.com/watch?v=xBjQVxVxOxc)
