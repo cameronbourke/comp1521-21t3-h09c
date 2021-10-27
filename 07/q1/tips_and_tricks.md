@@ -23,6 +23,10 @@ everything else are in `$t` register.
 A perfect example of when to use a `$t` register
 is to calculate the address of the cell in the grid.
 
+### Did you _definitely_ write the global variable back to memory?
+
+No? Okay, try that first.
+
 ### What if my autotests fail?
 
 1. Find the first failing autotest.
