@@ -7,4 +7,4 @@ How is the assignment going?
 
 Does anyone have hints or advice for other students?
 
-> See ./tips_and_tricks.md
+> See ./trick_or_treats.md 🎃👻😱
