@@ -9,7 +9,16 @@ Take a leisurely two minutes to see if you can find the info! (2 mins ⌛).
 
 > Hint: have a look at `$ man 3 fopen`.
 
-What happens if you try and write to a file that already exists?
+What happens if you try and write (not append) to a file that already exists?
+
+Why do we need to "open" a file?
+
+```c
+FILE* fp_1 = fopen("./some_file.txt");
+FILE* fp_2 = fopen("./some_file.txt");
+
+assert(fp_1 != fp_2);
+```
 
 [ ] What are some circumstances when `fopen` returns `NULL`?
 
