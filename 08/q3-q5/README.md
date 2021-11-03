@@ -19,3 +19,7 @@ Think failure cases!
 
 Let's first see an example of where things do not go to plan
 in `./fopen_fail.c`.
+
+If only life was as simple as calling `fopen()`.
+
+> Look at "The icecream flavours problem" slide.

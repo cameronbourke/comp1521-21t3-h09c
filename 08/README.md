@@ -1,7 +1,7 @@
 👋 Week 8
 =======================================
 
-- [Slides](https://www.canva.com/design/DAEtyODFtT8/mmfL9b-mTjhjaQqfuBEz_Q/view)
+- [Slides](https://www.canva.com/design/DAEupvJDAu4/DecICEQ8VXzuHhcwiUsmlA/view)
 
 [ ] 🎤 PSAs
 
