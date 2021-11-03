@@ -21,6 +21,13 @@ int max(int a[], int length) {
 }
 ```
 
+```
+--------------------------------------------
+| Imagine there are only 2 $s regs?,       |
+| how would you handle >2 local variables? |
+--------------------------------------------
+```
+
 > Go to `./max.s`
 
 ### When the Stack is Spreadsheet
@@ -59,15 +66,23 @@ Let's now see together how you could find it!
 
 The approach of using `$s` registers for any local
 variables is convenient. However, what is the
-drawback of this approach in `./01_stack_cond.c`?
+drawback of this approach?
 
-> I've got 99 problems and not enough regs is one.
+> `./01_stack_cond.c`?
 
-Imagine there are only 2 `$s` regs?,
-how would we translate `./02_two_reg.c`?
+"I've got 99 problems and not enough regs is one" - Nobody
+
+```
+--------------------------------------------
+| Imagine there are only 2 $s regs?,       |
+| how would you handle >2 local variables? |
+--------------------------------------------
+```
+
+> Let's have a look at `./02_two_reg.c`
 
 Hang on, why do we need to worry about
-this contrived case? Well, the C compiler
+this contrived case? Well, the `C` compiler
 has this exact problem when a function
 uses more than 10 local variables!
 
