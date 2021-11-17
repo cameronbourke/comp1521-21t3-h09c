@@ -17,4 +17,4 @@
 
 - [File Signatures](https://www.garykessler.net/library/file_sigs.html)
 - [Linux Essentials - Managing Users](https://www.youtube.com/watch?v=19WOD84JFxA)
-- [Slides](https://www.canva.com/design/DAEvTFzsjbw/hr-wc6gOBiZ6HGLZizCEEg)
+- [Slides](https://www.canva.com/design/DAEvTFzsjbw/hr-wc6gOBiZ6HGLZizCEEg/view)
